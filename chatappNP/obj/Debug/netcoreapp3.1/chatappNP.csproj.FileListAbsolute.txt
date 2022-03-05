@@ -1,0 +1,16 @@
+C:\Users\Muhammad Hamza\source\repos\chatappNP\chatappNP\bin\Debug\netcoreapp3.1\chatappNP.exe
+C:\Users\Muhammad Hamza\source\repos\chatappNP\chatappNP\bin\Debug\netcoreapp3.1\chatappNP.deps.json
+C:\Users\Muhammad Hamza\source\repos\chatappNP\chatappNP\bin\Debug\netcoreapp3.1\chatappNP.runtimeconfig.json
+C:\Users\Muhammad Hamza\source\repos\chatappNP\chatappNP\bin\Debug\netcoreapp3.1\chatappNP.runtimeconfig.dev.json
+C:\Users\Muhammad Hamza\source\repos\chatappNP\chatappNP\bin\Debug\netcoreapp3.1\chatappNP.dll
+C:\Users\Muhammad Hamza\source\repos\chatappNP\chatappNP\bin\Debug\netcoreapp3.1\chatappNP.pdb
+C:\Users\Muhammad Hamza\source\repos\chatappNP\chatappNP\obj\Debug\netcoreapp3.1\chatappNP.csproj.AssemblyReference.cache
+C:\Users\Muhammad Hamza\source\repos\chatappNP\chatappNP\obj\Debug\netcoreapp3.1\chatappNP.Form1.resources
+C:\Users\Muhammad Hamza\source\repos\chatappNP\chatappNP\obj\Debug\netcoreapp3.1\chatappNP.csproj.GenerateResource.cache
+C:\Users\Muhammad Hamza\source\repos\chatappNP\chatappNP\obj\Debug\netcoreapp3.1\chatappNP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Hamza\source\repos\chatappNP\chatappNP\obj\Debug\netcoreapp3.1\chatappNP.AssemblyInfoInputs.cache
+C:\Users\Muhammad Hamza\source\repos\chatappNP\chatappNP\obj\Debug\netcoreapp3.1\chatappNP.AssemblyInfo.cs
+C:\Users\Muhammad Hamza\source\repos\chatappNP\chatappNP\obj\Debug\netcoreapp3.1\chatappNP.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Hamza\source\repos\chatappNP\chatappNP\obj\Debug\netcoreapp3.1\chatappNP.dll
+C:\Users\Muhammad Hamza\source\repos\chatappNP\chatappNP\obj\Debug\netcoreapp3.1\chatappNP.pdb
+C:\Users\Muhammad Hamza\source\repos\chatappNP\chatappNP\obj\Debug\netcoreapp3.1\chatappNP.genruntimeconfig.cache
